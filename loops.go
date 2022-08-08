@@ -11,6 +11,13 @@ func main(){
 
  }
 
+
+ 	numbers :=[7]int {1,2,3,44,5}
+
+	 for i,x:= range numbers {
+		fmt.Printf("value of x = %d at %d\n", x,i)
+	 }   
+
 // var a="hello world"
 // var age=23  
 	// fmt.Println(kunj)
