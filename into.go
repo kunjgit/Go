@@ -1,9 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main(){
+const kunj int =23
 
-	
-	fmt.Println("hello")
+// var a="hello world"
+// var age=23  
+	fmt.Println(kunj)
 }
