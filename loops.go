@@ -18,6 +18,11 @@ func main(){
 		fmt.Printf("value of x = %d at %d\n", x,i)
 	 }   
 
+
+	 fmt.Println("another syntax to print the array in go")
+	 fmt.Println(numbers)
+
+
 // var a="hello world"
 // var age=23  
 	// fmt.Println(kunj)
