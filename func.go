@@ -13,10 +13,10 @@ func fact(n int) int{
 
 
 func main (){
-	var a int
-	a=4
-	var ans=fact(a);
+//	var a int
+//	a=4
+	var ans=fact(10);
 
-	fmt.Printf("the factorial of number %d is %d ", a,ans)
+	fmt.Printf("the factorial of number %d is %d ", 10,ans)
 
 }
