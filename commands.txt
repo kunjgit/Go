@@ -1,5 +1,9 @@
 if you just want to make some exe file   --> go build file.go
 then you want to run 
+   for running the exe file just do
+   -->./file only
+   
 
-   --> file.exe only
+    just compile and run not exe 
+   -->go run file.go
 
