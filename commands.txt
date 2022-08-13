@@ -6,4 +6,17 @@ then you want to run
 
     just compile and run not exe 
    -->go run file.go
+   
+
+    details of some func that are in the packages 
+   -->go doc fmt
+   -->go doc fmt.Printf 
+
+etc
+
+----------------------------------->
+some detailed commands are below once
+
+
+
 
