@@ -1,0 +1,5 @@
+if you just want to make some exe file   --> go build file.go
+then you want to run 
+
+   --> file.exe only
+
